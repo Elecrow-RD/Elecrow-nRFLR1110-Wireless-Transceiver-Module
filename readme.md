@@ -57,4 +57,4 @@ https://www.elecrow.com/elecrow-nrflr1110-wireless-transceiver-module-integrates
 
 ##### Diagram:
 
-![System_Diagrm_of_nRFLR1110_Wireless_module](F:\wiki\lorawan\Elecrow-nRFLR1110-Wireless-Transceiver-Module\git\System_Diagrm_of_nRFLR1110_Wireless_module.jpg)
+![System_Diagrm_of_nRFLR1110_Wireless_module](./System_Diagrm_of_nRFLR1110_Wireless_module.jpg)
